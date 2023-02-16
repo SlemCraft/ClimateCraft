@@ -1,0 +1,6 @@
+name: ClimateCraft
+version: '${project.version}'
+main: climatecraft.climatecraft.ClimateCraft
+api-version: 1.19
+authors: [ Mels ]
+description: A plugin that implements climate change!
